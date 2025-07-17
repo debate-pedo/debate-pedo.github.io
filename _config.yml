@@ -1,2 +1,3 @@
 name: My Site
-remote_theme: minimal-mistakes-jekyll
+plugins: jekyll-include-cache
+remote_theme: "mmistakes/minimal-mistakes@4.27.1
